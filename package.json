@@ -1,0 +1,12 @@
+{
+  "name": "klee-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
